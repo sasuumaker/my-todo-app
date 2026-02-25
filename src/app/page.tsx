@@ -78,7 +78,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex min-h-screen items-start justify-center bg-orange-400 pt-16 dark:bg-orange-600">
+    <div className="flex min-h-screen items-start justify-center bg-blue-100 pt-16 dark:bg-blue-900">
       <Card className="w-full max-w-lg">
         <CardHeader>
           <CardTitle className="text-2xl">TODO App</CardTitle>
